@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   # PDF confidentiel et échanges directs avec la DGS
 donneesNationales:
-  casConfirmes: 95403
+  casConfirmes: 103204
   deces: 9253
   decesEhpad: 5140
   hospitalises: 31826
